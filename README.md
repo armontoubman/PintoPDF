@@ -14,9 +14,17 @@ The tkinter (8.6) library may or may not already come with your Python 3 distrib
 
 Clone the repository, and use `python3 pintopdf.py` to start.
 
+### Building executables
+
+#### Using py2exe/py2app:
+
 On Windows, use `python setup.py py2exe` to build an executable.
 
 On OS X, use `python setup.py py2app` to build an app bundle.
+
+#### Using PyInstaller: 
+
+`pyinstaller --onefile --windowed pintopdf.py`
 
 ## Screenshots
 
