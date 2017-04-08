@@ -30,21 +30,21 @@ On OS X, use `python setup.py py2app` to build an app bundle.
 
 Windows 7
 
-![PintoPDF on Windows 7 (1)](http://www.armontoubman.com/pintopdf/pintopdf_windows7_1.png)
+![PintoPDF on Windows 7 (1)](http://www.armontoubman.com/files/pintopdf/pintopdf_windows7_1.png)
 
-![PintoPDF on Windows 7 (2)](http://www.armontoubman.com/pintopdf/pintopdf_windows7_2.png)
+![PintoPDF on Windows 7 (2)](http://www.armontoubman.com/files/pintopdf/pintopdf_windows7_2.png)
 
 Ubuntu
 
-![PintoPDF on Windows 7 (1)](http://www.armontoubman.com/pintopdf/pintopdf_ubuntu_1.png)
+![PintoPDF on Windows 7 (1)](http://www.armontoubman.com/files/pintopdf/pintopdf_ubuntu_1.png)
 
-![PintoPDF on Windows 7 (2)](http://www.armontoubman.com/pintopdf/pintopdf_ubuntu_2.png)
+![PintoPDF on Windows 7 (2)](http://www.armontoubman.com/files/pintopdf/pintopdf_ubuntu_2.png)
 
 OS X
 
-![PintoPDF on Windows 7 (1)](http://www.armontoubman.com/pintopdf/pintopdf_osx_1.png)
+![PintoPDF on Windows 7 (1)](http://www.armontoubman.com/files/pintopdf/pintopdf_osx_1.png)
 
-![PintoPDF on Windows 7 (2)](http://www.armontoubman.com/pintopdf/pintopdf_osx_2.png)
+![PintoPDF on Windows 7 (2)](http://www.armontoubman.com/files/pintopdf/pintopdf_osx_2.png)
 
 ## License
 
