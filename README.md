@@ -38,7 +38,7 @@ Ubuntu 16.04
 
 ![PintoPDF on Ubuntu 16.04 (1)](https://www.armontoubman.com/files/pintopdf/pintopdf_ubuntu_1.png)
 
-![PintoPDF on Ubuntu 16.04 (2)](http://www.armontoubman.com/files/pintopdf/pintopdf_ubuntu_2.png)
+![PintoPDF on Ubuntu 16.04 (2)](https://www.armontoubman.com/files/pintopdf/pintopdf_ubuntu_2.png)
 
 OS X
 
