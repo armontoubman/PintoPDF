@@ -30,21 +30,21 @@ On OS X, use `python setup.py py2app` to build an app bundle.
 
 Windows 7
 
-![PintoPDF on Windows 7 (1)](http://www.armontoubman.com/files/pintopdf/pintopdf_windows7_1.png)
+![PintoPDF on Windows 7 (1)](https://www.armontoubman.com/files/pintopdf/pintopdf_windows7_1.png)
 
-![PintoPDF on Windows 7 (2)](http://www.armontoubman.com/files/pintopdf/pintopdf_windows7_2.png)
+![PintoPDF on Windows 7 (2)](https://www.armontoubman.com/files/pintopdf/pintopdf_windows7_2.png)
 
-Ubuntu
+Ubuntu 16.04
 
-![PintoPDF on Windows 7 (1)](http://www.armontoubman.com/files/pintopdf/pintopdf_ubuntu_1.png)
+![PintoPDF on Ubuntu 16.04 (1)](https://www.armontoubman.com/files/pintopdf/pintopdf_ubuntu_1.png)
 
-![PintoPDF on Windows 7 (2)](http://www.armontoubman.com/files/pintopdf/pintopdf_ubuntu_2.png)
+![PintoPDF on Ubuntu 16.04 (2)](http://www.armontoubman.com/files/pintopdf/pintopdf_ubuntu_2.png)
 
 OS X
 
-![PintoPDF on Windows 7 (1)](http://www.armontoubman.com/files/pintopdf/pintopdf_osx_1.png)
+![PintoPDF on macOS (1)](https://www.armontoubman.com/files/pintopdf/pintopdf_osx_1.png)
 
-![PintoPDF on Windows 7 (2)](http://www.armontoubman.com/files/pintopdf/pintopdf_osx_2.png)
+![PintoPDF on macOS (2)](https://www.armontoubman.com/files/pintopdf/pintopdf_osx_2.png)
 
 ## License
 
